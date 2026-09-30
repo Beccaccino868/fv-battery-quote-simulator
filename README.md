@@ -52,3 +52,4 @@ README.md                       — this file
 ## Status
 
 Prototype. Costs, surplus compensation and the deduction cap need verification against real Spanish market data before any output is shown to an actual customer.
+See also: [fv-battery-quote-simulator](https://github.com/Beccaccino868/fv-battery-quote-simulator) — a customer-facing quote tool built on the same PVGIS/REData data pipeline, sized for técnico comercial proposals rather than market optimization.
