@@ -4,7 +4,7 @@ Interactive quote simulator for residential solar + battery proposals in Spain. 
 
 **[Live demo →](https://beccaccino868.github.io/fv-battery-quote-simulator/)** 
 
-Third project in a small energy-sector portfolio, alongside [`battery-arbitrage-spain`](#) (v1/v2: hourly linear-programming battery dispatch against Spanish day-ahead prices). Where v1/v2 answers "how do you optimize a battery against market prices," this project answers a different question: "what would a técnico comercial hand a customer."
+Third project in a small energy-sector portfolio, alongside [`battery-arbitrage-spain`](https://github.com/Beccaccino868/battery-arbitrage-spain) (v1/v2: hourly linear-programming battery dispatch against Spanish day-ahead prices). Where v1/v2 answers "how do you optimize a battery against market prices," this project answers a different question: "what would a técnico comercial hand a customer."
 
 ## Two proposal modes
 
