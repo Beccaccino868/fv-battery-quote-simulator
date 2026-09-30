@@ -2,7 +2,7 @@
 
 Interactive quote simulator for residential solar + battery proposals in Spain. Input a customer's consumption, province and roof orientation; get back a sized system, self-consumption estimate and payback range — formatted as a printable customer-facing proposal, not an analyst's notebook.
 
-**[Live demo →](#)** *(add the GitHub Pages link here once published)*
+**[Live demo →](https://beccaccino868.github.io/fv-battery-quote-simulator/)** 
 
 Third project in a small energy-sector portfolio, alongside [`battery-arbitrage-spain`](#) (v1/v2: hourly linear-programming battery dispatch against Spanish day-ahead prices). Where v1/v2 answers "how do you optimize a battery against market prices," this project answers a different question: "what would a técnico comercial hand a customer."
 
