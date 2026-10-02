@@ -1,4 +1,4 @@
-# Simulatore di preventivo FV + batteria
+# FV + Battery Quote Simulator
 
 Interactive quote simulator for residential solar + battery proposals in Spain. Input a customer's consumption, province and roof orientation; get back a sized system, self-consumption estimate and payback range — formatted as a printable customer-facing proposal, not an analyst's notebook.
 
